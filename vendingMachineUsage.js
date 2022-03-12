@@ -168,4 +168,3 @@ const vmManager = new vendingMachineUsage({
 vmManager.stockManager.registerNewItem('콜라', 1, 1100);
 vmManager.stockManager.registerNewItem('물', 8, 600);
 vmManager.stockManager.registerNewItem('커피', 3, 700);
-vmManager.insertCoin(3000);
