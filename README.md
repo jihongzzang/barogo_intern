@@ -2,9 +2,7 @@
 
 
 ## **지원자**
-
-- **Frontend**
-  - 주지홍
+  - 주지홍 (FrontEnd-Enginner)
 
 ## **로직 구성언어**
   -JavaScript
