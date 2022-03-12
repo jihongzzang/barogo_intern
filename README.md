@@ -5,7 +5,7 @@
   - 주지홍 (FrontEnd-Enginner)
 
 ## **로직 구성언어**
-  -JavaScript
+  - JavaScript
   
 ## **파일구성**
   - process_schematic : 프로세스 도식화
